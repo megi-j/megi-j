@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megi Jabanashvili</h1>
 <h3 align="center">Frontend web developer from Georgia</h3>
 
-- 🌱 I’m currently mentoring Tbilisi Bootcamp
+- 🌱 I’m currently mentoring in the Tbilisi Bootcamp.
 
 - 👨‍💻 All of my projects are available at [megi-j](https://github.com/megi-j?tab=repositories)
 
